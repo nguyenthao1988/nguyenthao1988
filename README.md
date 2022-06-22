@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/tranphuquy19"><img src="[https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;DevOps+Engineer;%2B4+years+coding+experience;A+blogger&center=true&width=380&height=45](https://readme-typing-svg.herokuapp.com/?lines=Admin%20at%20blog%20laptrinhvb.net;Full-stack+developer;DevOps+Engineer;%2B7+years+coding+experience;A+blogger&center=true&width=380&height=45)"></a>
+  <a href="https://github.com/nguyenthao1988"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;DevOps+Engineer;%2B4+years+coding+experience;A+blogger&center=true&width=380&height=45"></a>
 </p>
 
 ## 🙋‍♂️ Connect with me Admin at blog https://laptrinhvb.net
