@@ -37,7 +37,9 @@
 
 ## 🍺 Donate Me
 
-[<img src="https://laptrinhvb.net/vietqr.png" alt="Donate LaptrinhVB" width="200" />&ensp; 🍺 Buy me a cup beer](https://www.paypal.com/paypalme/laptrinhvb)
+[<img src="https://laptrinhvb.net/vietqr.png" alt="Donate LaptrinhVB" width="200" /> <br>
+
+🍺 Buy me a cup beer](https://www.paypal.com/paypalme/laptrinhvb)
 
 ## ⛅️ Weather in Đồng Nai now!
 
