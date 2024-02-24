@@ -15,6 +15,14 @@
   <a href="https://laptrinhvb.net"><img alt="My blog" title="Blog" src="https://img.shields.io/badge/My website-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white"/></a> 
 </p>
 
+## About Me
+
+👀 I’m interested in Web, Desktop App and so on.
+
+🌱 My skills includes .NET(C#, VB.NET), DevExpress, Java, Android, PHP, Python, Sqlserver, Mysql, Reactjs, Dart, Flutter, API services and lot more....
+
+💞️ I’m looking to collaborate in developing innovative software.
+
 ## 📫 How to reach me:
 
 [<img src="https://img.shields.io/github/followers/nguyenthao1988?color=orange&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />&ensp; nguyenthao1988](https://github.com/nguyenthao1988)
@@ -23,9 +31,13 @@
 
 [<img src="https://img.icons8.com/color/1x/zalo--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; zalo:(+84)933.913.122](https://zalo.me/0933913122)
 
-[<img src="https://img.icons8.com/color/1x/telegram-app--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; @laptrinhvb1988]([https://t.me/valloon508](https://t.me/laptrinhvb1988))
+[<img src="https://img.icons8.com/color/1x/telegram-app--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; @laptrinhvb1988](https://t.me/laptrinhvb1988)
 
 <br/>
+
+## 🍺 Donate Me
+
+[<img src="https://laptrinhvb.net/vietqr.png" alt="Donate LaptrinhVB" width="200">" />&ensp; 🍺 Buy me a cup beer](https://www.paypal.com/paypalme/laptrinhvb)
 
 ## ⛅️ Weather in Đồng Nai now!
 
