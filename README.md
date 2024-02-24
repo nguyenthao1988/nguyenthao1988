@@ -14,6 +14,16 @@
   <a href="https://www.youtube.com/channel/UCpXJR320eV8jZqyPHc2ZkIg"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://laptrinhvb.net"><img alt="My blog" title="Blog" src="https://img.shields.io/badge/My website-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white"/></a> 
 </p>
+## 📫 How to reach me:
+[<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />&ensp; nguyenthao1988](https://github.com/nguyenthao1988)
+
+[<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />&ensp; hoangtunho2015@gmail.com](https://mailto:hoangtunho2015@gmail.com)
+
+[<img src="https://img.icons8.com/color/1x/zalo--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; zalo: (+84)933.913.122](https://zalo.me/0933913122)
+
+[<img src="https://img.icons8.com/color/1x/telegram-app--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; @laptrinhvb1988]([https://t.me/valloon508](https://t.me/laptrinhvb1988))
+
+<br/>
 
 ## ⛅️ Weather in Đồng Nai now!
 
